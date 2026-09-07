@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+/bin/
+/dist/
+/cotorra
+/cotorra.exe
+*.wav
+*.pcm
+*.test
+*.out
+.DS_Store
